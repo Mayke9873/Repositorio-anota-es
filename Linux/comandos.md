@@ -28,5 +28,8 @@
 
 ## Editores de texto
 
-- vi
-- nano
+### vi
+- Para entrar no modo de edição ou novo arquivo, digite: "vi [nome do arquivo]" (sem colchetes).
+  - Para salver e sair, aperte "esc" e digite: ":wq".
+
+### nano

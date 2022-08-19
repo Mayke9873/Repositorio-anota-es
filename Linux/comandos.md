@@ -1,26 +1,32 @@
 ## Comandos terminal Linux
 
 >- cd
-- Usado para trafegar entre diretórios.
-
+>>- Usado para trafegar entre diretÃ³rios.
+----
 >- ls
-- Usado para listar oque à nos diretórios.
-
+>>- Usado para listar oque Ã  nos diretÃ³rios.
+----
 >- mkdir
-- Usado para criar diretórios.
-
+>>- Usado para criar diretÃ³rios.
+----
 >- touch
-- Usado para criar arquivos.
-
+>>- Usado para criar arquivos.
+----
 >- rm
-- Usado para excluir arquivos.
-
+>>- Usado para excluir arquivos.
+----
 >- rmdir
-- Usado para apagar diretrórios.
-
+>>- Usado para apagar diretrÃ³rios.
+----
 >- cat
-- Usado para ler um arquivo.
-
+>>- Usado para ler um arquivo.
+----
 >- sudo
-- Usado para escrever dentro de um arquivo.
+>>- Usado para escrever dentro de um arquivo.
 
+---
+
+## Editores de texto
+
+- vi
+- nano

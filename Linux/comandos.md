@@ -28,11 +28,14 @@
 >>- Usado para adicionar um usuario.
 ---
 >- userdel
->>- Usado para excluir um usário.	
+>>- Usado para excluir um usário.
+
+---
 
 ## Editores de texto
 
 >## vi
 >- Para entrar no modo de edição ou novo arquivo, digite: "vi [nome do arquivo]" (sem colchetes).
 >  - Para salvar e sair, aperte "esc" e digite: ":wq".
+
 ### nano

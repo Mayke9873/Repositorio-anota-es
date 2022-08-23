@@ -29,9 +29,38 @@
 ---
 >- userdel
 >>- Usado para excluir um usário.
-
 ---
-
+>- usermod
+>>- Usado para alterar o usuário.
+---
+>- groupadd
+>>- Usado para adicinar um grupo de usuario.
+---
+>- groupdel
+>>- Usadado para excluir um grupo de usuário.
+---
+>- chown [dono(usuário) : grupo(de usuário)]
+>>- Usado para alterar dono dos diretórios.
+---
+>- chmod
+>>- Usado para trocar os niveis de pirmissões dos arquivos e diretório.
+---
+>- apt e apt-get
+>>- Usado para gerenciar programas no sistema.
+	Instalação, atualização, desinstalação...
+---
+>- cp
+>>- Usado para copiar arquivos.
+---
+>- mv
+>>- Usado para mover e renomear arquivos.
+---
+>- kill e killall
+>>- Usado para matar processos (programas).
+---
+>- w e who
+>>- Lista processos de usuários (logons)
+---
 ## Editores de texto
 
 >## vi

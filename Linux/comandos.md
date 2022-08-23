@@ -1,13 +1,13 @@
 ## Comandos terminal Linux
 
 >- cd
->>- Usado para trafegar entre diretórios.
+>>- Usado para trafegar entre diretÃ³rios.
 ----
 >- ls
->>- Usado para listar oque à nos diretórios.
+>>- Usado para listar oque Ã  nos diretÃ³rios.
 ----
 >- mkdir
->>- Usado para criar diretórios.
+>>- Usado para criar diretÃ³rios.
 ----
 >- touch
 >>- Usado para criar arquivos.
@@ -16,7 +16,7 @@
 >>- Usado para excluir arquivos.
 ----
 >- rmdir
->>- Usado para apagar diretrórios.
+>>- Usado para apagar diretrÃ³rios.
 ----
 >- cat
 >>- Usado para ler um arquivo.
@@ -28,26 +28,26 @@
 >>- Usado para adicionar um usuario.
 ---
 >- userdel
->>- Usado para excluir um usário.
+>>- Usado para excluir um usÃ¡rio.
 ---
 >- usermod
->>- Usado para alterar o usuário.
+>>- Usado para alterar o usuÃ¡rio.
 ---
 >- groupadd
 >>- Usado para adicinar um grupo de usuario.
 ---
 >- groupdel
->>- Usadado para excluir um grupo de usuário.
+>>- Usadado para excluir um grupo de usuÃ¡rio.
 ---
->- chown [dono(usuário) : grupo(de usuário)]
->>- Usado para alterar dono dos diretórios.
+>- chown [dono(usuÃ¡rio) : grupo(de usuÃ¡rio)]
+>>- Usado para alterar dono dos diretÃ³rios.
 ---
 >- chmod
->>- Usado para trocar os niveis de pirmissões dos arquivos e diretório.
+>>- Usado para trocar os niveis de pirmissÃµes dos arquivos e diretÃ³rio.
 ---
 >- apt e apt-get
 >>- Usado para gerenciar programas no sistema.
-	Instalação, atualização, desinstalação...
+	InstalaÃ§Ã£o, atualizaÃ§Ã£o, desinstalaÃ§Ã£o...
 ---
 >- cp
 >>- Usado para copiar arquivos.
@@ -59,12 +59,13 @@
 >>- Usado para matar processos (programas).
 ---
 >- w e who
->>- Lista processos de usuários (logons)
+>>- Lista processos de usuÃ¡rios (logons)
 ---
 ## Editores de texto
 
 >## vi
->- Para entrar no modo de edição ou novo arquivo, digite: "vi [nome do arquivo]" (sem colchetes).
+>- Para entrar no modo de ediÃ§Ã£o ou novo arquivo, digite: "vi [nome do arquivo]" (sem colchetes).
 >  - Para salvar e sair, aperte "esc" e digite: ":wq".
 
 ### nano
+>- Comandos para salvar e sair do editor ficam logo abaixo. Ex: (^X) = CTRL + X
